@@ -22,7 +22,7 @@ public class BaseTest {
 	{
 		if(driver == null)
 		{
-			System.out.println(System.getProperty("user.dir"));
+			
 			FileReader fr = new FileReader(System.getProperty("user.dir")+"\\src\\test\\resources\\configfiles\\config.properties");
 			prop.load(fr);
 			
