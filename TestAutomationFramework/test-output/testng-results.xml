@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-27T18:18:22 IST" name="Default suite" finished-at="2024-01-27T18:19:28 IST" duration-ms="66858">
+  <suite started-at="2024-01-28T22:52:50 IST" name="Default suite" finished-at="2024-01-28T22:55:01 IST" duration-ms="131196">
     <groups>
     </groups>
-    <test started-at="2024-01-27T18:18:22 IST" name="Default test" finished-at="2024-01-27T18:19:28 IST" duration-ms="66858">
+    <test started-at="2024-01-28T22:52:50 IST" name="Default test" finished-at="2024-01-28T22:55:01 IST" duration-ms="131196">
       <class name="testcase.MyFIrstTestCaseFW">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcase.MyFIrstTestCaseFW@5656be13]" started-at="2024-01-27T18:18:22 IST" name="setUp" finished-at="2024-01-27T18:18:52 IST" duration-ms="30516" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcase.MyFIrstTestCaseFW@5656be13]" started-at="2024-01-28T22:52:50 IST" name="setUp" finished-at="2024-01-28T22:53:18 IST" duration-ms="28101" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:testcase.MyFIrstTestCaseFW@5656be13]" started-at="2024-01-27T18:18:52 IST" name="LoginTest" data-provider="testdata" finished-at="2024-01-27T18:18:56 IST" duration-ms="3405" status="PASS">
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:testcase.MyFIrstTestCaseFW@5656be13]" started-at="2024-01-28T22:53:18 IST" name="LoginTest" data-provider="testdata" finished-at="2024-01-28T22:53:24 IST" duration-ms="5853" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,15 +27,63 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.MyFIrstTestCaseFW@5656be13]" started-at="2024-01-27T18:18:56 IST" name="tearDown" finished-at="2024-01-27T18:18:56 IST" duration-ms="316" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.MyFIrstTestCaseFW@5656be13]" started-at="2024-01-28T22:53:24 IST" name="tearDown" finished-at="2024-01-28T22:53:25 IST" duration-ms="691" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcase.MyFIrstTestCaseFW@5656be13]" started-at="2024-01-27T18:18:56 IST" name="setUp" finished-at="2024-01-27T18:19:24 IST" duration-ms="28630" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcase.MyFIrstTestCaseFW@5656be13]" started-at="2024-01-28T22:53:25 IST" name="setUp" finished-at="2024-01-28T22:53:58 IST" duration-ms="33342" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:testcase.MyFIrstTestCaseFW@5656be13]" started-at="2024-01-27T18:19:24 IST" name="LoginTest" data-provider="testdata" finished-at="2024-01-27T18:19:28 IST" duration-ms="3466" status="PASS">
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:testcase.MyFIrstTestCaseFW@5656be13]" started-at="2024-01-28T22:53:58 IST" name="LoginTest" data-provider="testdata" finished-at="2024-01-28T22:54:02 IST" duration-ms="3795" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Adnan_22]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Games@221998]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.MyFIrstTestCaseFW@5656be13]" started-at="2024-01-28T22:54:02 IST" name="tearDown" finished-at="2024-01-28T22:54:03 IST" duration-ms="619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcase.MyFIrstTestCaseFW@5656be13]" started-at="2024-01-28T22:54:03 IST" name="setUp" finished-at="2024-01-28T22:54:23 IST" duration-ms="20550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:testcase.MyFIrstTestCaseFW@5656be13]" started-at="2024-01-28T22:54:23 IST" name="LoginTest" data-provider="testdata" finished-at="2024-01-28T22:54:29 IST" duration-ms="5939" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Adnan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Games221998]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.MyFIrstTestCaseFW@5656be13]" started-at="2024-01-28T22:54:29 IST" name="tearDown" finished-at="2024-01-28T22:54:30 IST" duration-ms="598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcase.MyFIrstTestCaseFW@5656be13]" started-at="2024-01-28T22:54:30 IST" name="setUp" finished-at="2024-01-28T22:54:33 IST" duration-ms="3164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:testcase.MyFIrstTestCaseFW@5656be13]" started-at="2024-01-28T22:54:33 IST" name="LoginTest" data-provider="testdata" finished-at="2024-01-28T22:55:00 IST" duration-ms="27602" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -51,7 +99,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.MyFIrstTestCaseFW@5656be13]" started-at="2024-01-27T18:19:28 IST" name="tearDown" finished-at="2024-01-27T18:19:28 IST" duration-ms="440" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.MyFIrstTestCaseFW@5656be13]" started-at="2024-01-28T22:55:00 IST" name="tearDown" finished-at="2024-01-28T22:55:01 IST" duration-ms="752" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
